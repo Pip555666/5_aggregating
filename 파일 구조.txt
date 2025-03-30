@@ -1,7 +1,7 @@
 /project
   ├── aggregate.py
   ├── process_sentiment_spark.py  # ✅ Spark로 감정 데이터 처리하는 코드
-  ├── load_to_mysql.py  # ✅ MySQL 적재 코드 (이번 작업!)
+  ├── load_to_mysql.py  # ✅ MySQL 적재 코드
   ├── ???airflow_dag.py  # ✅ Airflow 자동화 DAG 파일 (선택)???
   ├── data/
   │   ├── processed/
