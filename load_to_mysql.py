@@ -6,7 +6,7 @@ import os
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Qlsl0316',
+    'password': 'Pw',
     'database': 'stock_analysis'
 }
 
